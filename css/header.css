@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Alagard-By-Hewett-Tsoi';
+    src: url('../alagard.ttf');
+}
+body {
+    background: #351313;
+}
+header {
+    background-color: #12121b;
+}
+.logo-extendida {
+    width: 30%;
+}
+header li a {
+    font-family: 'Alagard-By-Hewett-Tsoi';
+    font-size: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+}
