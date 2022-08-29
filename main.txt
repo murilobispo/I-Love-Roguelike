@@ -1,0 +1,48 @@
+        <main>
+            <div>
+                <h2>Destaques</h2>
+                <ol>
+                    <li>
+                        <!--<img src="./images/Cult-Of-The-Lam-logo.png">
+                        <p>Notas de Atualização 1.0.12</p-->
+                    </li>
+                    <li>
+                        <img>
+                        <p></p>
+                    </li>
+                    <li>
+                        <img>
+                        <p></p>
+                    </li>
+                </ol>
+            </div>
+
+            <div>
+                <h2>Últimas</h2>
+                <ol>
+                    <li>
+                        <img>
+                        <p></p>
+                        <p></p>
+                    </li>
+                    <li>
+                        <img>
+                        <p></p>
+                        <p></p>
+                    </li>
+                    <li>
+                        <img>
+                        <p></p>
+                        <p></p>
+                    </li>
+                    <li>
+                        <img>
+                        <p></p>
+                        <p></p>
+                    </li>
+                </ol>
+            </div>
+        </main>
+        <footer>
+            
+        </footer>
