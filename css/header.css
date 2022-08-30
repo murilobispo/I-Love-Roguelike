@@ -1,7 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kreon&display=swap');
+
 @font-face {
     font-family: 'Alagard-By-Hewett-Tsoi';
     src: url('../alagard.ttf');
 }
+
+
+
+
+
 body {
     background: #351313;
 }
@@ -12,7 +19,7 @@ header {
     width: 30%;
 }
 header li a {
-    font-family: 'Alagard-By-Hewett-Tsoi';
+    font-family: 'Kreon';
     font-size: 20px;
     color: #FFFFFF;
     text-decoration: none;
