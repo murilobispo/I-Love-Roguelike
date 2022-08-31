@@ -1,25 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Kreon&display=swap');
 
 @font-face {
-    font-family: 'Alagard-By-Hewett-Tsoi';
+    font-family: 'Alagard';
     src: url('../alagard.ttf');
 }
 
 
-
-
-
-body {
-    background: #351313;
-}
 header {
+    width: 100%;
     background-color: #12121b;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
 }
+
 .logo-extendida {
-    width: 30%;
+    width: 300px;
 }
-header li a {
-    font-family: 'Kreon';
+
+nav li {
+    display: inline-block;
+    margin: 0 20px 0 0;
+}
+  
+nav li a {
+    font-family: 'Alagard';
     font-size: 20px;
     color: #FFFFFF;
     text-decoration: none;
